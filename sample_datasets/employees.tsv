@@ -1,0 +1,6 @@
+employee_id	name	department	salary	hire_date	performance_score	years_experience
+EMP001	John Anderson	Engineering	95000	2022-03-15	4.2	5
+EMP002	Sarah Martinez	Marketing	72000	2023-01-20	3.8	3
+EMP003	Michael Chen	Sales	68000	2021-08-10	4.5	8
+EMP004	Lisa Thompson	HR	75000	2022-11-05	4.0	6
+EMP005	Robert Kim	Engineering	102000	2020-06-01	4.7	12

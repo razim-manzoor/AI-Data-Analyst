@@ -1,0 +1,6 @@
+customer_id,name,age,city,signup_date,total_spent,is_premium
+1001,Alice Johnson,28,New York,2023-01-15,1250.5,True
+1002,Bob Smith,34,Los Angeles,2023-02-20,890.25,False
+1003,Carol Brown,45,Chicago,2023-03-10,2100.75,True
+1004,David Wilson,29,Houston,2023-04-05,567.0,False
+1005,Eve Davis,38,Phoenix,2023-05-12,1450.3,True

@@ -1,0 +1,17 @@
+[theme]
+# Light theme configuration
+primaryColor = "#ff6b6b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+base = "light"
+
+[server]
+# Server configuration
+headless = false
+enableCORS = true
+enableXsrfProtection = true
+
+[browser]
+# Browser configuration
+gatherUsageStats = false
